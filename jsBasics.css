@@ -1,0 +1,65 @@
+.jsBasicsHeaderRedBox{
+    border: 1px solid black;
+    background: red;
+    width: 1000px;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+.leftBarNavigation{
+    background-color: green;
+    width: 210px;
+    padding: 50px;
+    margin: 20px;
+    display: inline-block; 
+}
+
+.BigCenterDiv{
+
+    background-color: black;
+    width: 710px;
+    padding: 50px;
+    margin: auto;
+    position: absolute;
+    display: inline-block; 
+    height: 400px;
+
+}
+     
+        .titleOfBigBox{
+
+        color: aliceblue;
+        }
+
+                    .textInsideBigBox{
+                        color: aliceblue;
+                    }
+
+                    .AddColorToMoreTextInsideBigBox{
+                        color: aliceblue;
+                    }
+
+
+
+  body 
+    {background-color: blue;}
+
+
+
+  .bullet{
+    list-style-type: circle;
+    margin-left:20px;
+  }
+
+
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+  }
